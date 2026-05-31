@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/harish-narayanan-5a87072a5">
+<a href="https://www.linkedin.com/in/harish-narayanan-5a87072a5/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -218,7 +218,7 @@ class HarishNarayananRJ:
 
 *"The best way to predict the future is to build it."* — **Harish Narayanan R J**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harish-narayanan-5a87072a5)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-narayanan-5a87072a5/)
 [![Email](https://img.shields.io/badge/Send%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnarayananrj@gmail.com)
 
 </div>
