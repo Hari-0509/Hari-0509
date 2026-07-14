@@ -26,35 +26,51 @@
 
 ---
 
-# 🚀 About Me
+## 🖥️ whoami
 
-```python
-class HarishNarayananRJ:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Harish Narayanan R J"
-        self.location = "Chennai, India 🇮🇳"
-        self.degree = "B.Tech Computer Science & Business Systems"
-        self.graduation = "2027"
-
-        self.roles = [
-            "Software Engineer",
-            "AI Engineer",
-            "AWS Cloud Practitioner"
-        ]
-
-        self.skills = [
-            "Python",
-            "Java",
-            "SQL",
-            "Machine Learning",
-            "Cloud Computing",
-            "System Design"
-        ]
-
-    def motto(self):
-        return "Build • Learn • Scale • Repeat 🚀"
 ```
+┌──────────────────────────────────────────────────────────────┐
+│  harish@devbox ~ % whoami --verbose                           │
+├──────────────────────────────────────────────────────────────┤
+│  user        : Harish Narayanan R J                           │
+│  based_in    : Chennai, India 🇮🇳                             │
+│  studying    : B.Tech CS & Business Systems (2023 – 2027)     │
+│  cgpa        : 8.13 / 10                                      │
+│  focus       : AI/ML systems · Cloud infra · Backend APIs     │
+│  driven_by   : shipping things that actually work             │
+│  status      : [ONLINE] open to internships / collab          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+**🧠 What I build**
+<br>
+ML pipelines that turn raw signals — audio, market data — into decisions a system can act on.
+
+</td>
+<td width="33%" align="center">
+
+**☁️ Where I build it**
+<br>
+AWS-first: EC2, S3, Lambda — infra that scales without babysitting.
+
+</td>
+<td width="33%" align="center">
+
+**🎯 Why I build**
+<br>
+I like problems where the answer isn't obvious until the data tells you.
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -104,6 +120,8 @@ class HarishNarayananRJ:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -118,74 +136,61 @@ class HarishNarayananRJ:
 
 [![Harish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hari-0509&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Hari-0509)
 
-## 💼 Work Experience
+---
 
-<details>
-<summary><b>🏛️ S.A. Engineering College — Research Project Engineer &nbsp;|&nbsp; Jun 2025 – Mar 2026 &nbsp;|&nbsp; Chennai, India</b></summary>
+## 🚀 Featured Projects
 
-<br/>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-> ![HuBERT](https://img.shields.io/badge/HuBERT-6366F1?style=flat-square&logo=huggingface&logoColor=white)
-> ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=yandex&logoColor=black)
-> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-- 🎙️ Built an end-to-end speech analysis pipeline using **PyTorch + HuBERT + CatBoost** achieving automated dysarthria detection from raw audio inputs.
-- 🧱 Implemented modular preprocessing, feature extraction, training, and inference scripts following clean-code and OOP principles — significantly improving debugging speed and maintainability.
-- 📊 Evaluated model using **accuracy, ROC-AUC, confusion matrix, and 5-fold cross-validation**, providing measurable validation of classification performance.
-- 🚀 Prepared reusable inference modules ready for **Flask/FastAPI REST API integration**, enabling scalable backend deployment of the ML model.
-
-</details>
-
-<details>
-<summary><b>📈 Academic Project — AI FinTech Engineer &nbsp;|&nbsp; Nov 2024 – Mar 2025 &nbsp;|&nbsp; Chennai, India</b></summary>
+<details open>
+<summary><b>🧠 AI-Powered Dysarthria Speech Analysis Platform</b> &nbsp;|&nbsp; Research Project &nbsp;|&nbsp; Sep 2025 – May 2026</summary>
 
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6366F1?style=flat-square&logo=huggingface&logoColor=white)
+> ![Speech Processing](https://img.shields.io/badge/Speech%20Processing-000000?style=flat-square)
 
-- 🔄 Built an **automated Python data pipeline** to collect, clean, and process stock market data with technical indicators and trend-based features for time-series forecasting.
-- 🧠 Implemented **LSTM-based prediction models** with TensorFlow and engineered sequential features using Pandas and NumPy for model-ready data preparation.
-- 🗄️ Structured processed datasets for dual **MySQL/MongoDB storage** using DBMS principles, enabling efficient retrieval and analysis of financial records.
-- 📉 Created visualization and reporting modules to analyse prediction trends, error metrics, and model outputs — improving interpretability of forecasting results.
+- 🎙️ Built an **end-to-end ML pipeline** for dysarthric speech severity classification using **Python, TensorFlow, and PyTorch**.
+- 🔬 Applied feature extraction and preprocessing on speech datasets; improved accuracy through **iterative model optimization**.
+- 🚀 Deployed a **live real-time demo app**; contributed to an **IEEE-track research manuscript** (under review).
+- 🔗 **Live Demo:** [NeuroSpeech AI](https://github.com/Hari-0509)
+
+</details>
+
+<details open>
+<summary><b>📋 DevTrack – Full Stack Project Management Platform</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; May 2026 – Ongoing</summary>
+
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+> ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- 🏗️ Developed a **full-stack collaboration platform** for managing projects, tasks, and team workflows using **Python, Flask, SQLAlchemy, and SQLite**.
+- 🔐 Implemented secure **JWT authentication** and **RESTful APIs** to support user authentication, project management, task tracking, and dashboard features.
+- ⚛️ Built a **responsive React-based frontend** and **containerized the application with Docker** for streamlined development and deployment.
+- 🔗 **Live Demo:** [DevTrack](https://github.com/Hari-0509)
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Research Experience
 
-<div align="center">
+<details open>
+<summary><b>🏛️ Academic Research Contributor</b> &nbsp;|&nbsp; S.A. Engineering College, Chennai &nbsp;|&nbsp; Sep 2025 – May 2026</summary>
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🎙️ **HuBERT Dysarthria Detection**](https://github.com/Hari-0509) | Python · PyTorch · HuBERT · CatBoost · Scikit-learn | End-to-end speech ML pipeline · 5-fold cross-validation · REST API-ready inference modules |
-| [📈 **AI FinTech Stock Predictor**](https://github.com/Hari-0509) | Python · TensorFlow · LSTM · MySQL · MongoDB | Automated data pipeline · Time-series LSTM forecasting · Dual DB storage architecture |
+<br/>
 
-</div>
+- 🤝 Collaborated with a **PhD researcher** on dysarthria severity detection using **ML and speech processing**.
+- 📊 Contributed to **dataset preparation, feature engineering, model evaluation**, and co-authored an **IEEE-track manuscript** (under review).
 
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **NPTEL Certified** | Introduction to Machine Learning — IIT Madras |
-| 🤖 | **HP LIFE Certified** | AI for Beginners |
-| 📊 | **CGPA 8.13 / 10** | B.Tech Computer Science & Business Systems |
-| 🧠 | **ML Pipeline Architect** | HuBERT + CatBoost speech analysis with ROC-AUC evaluation |
-| 💹 | **FinTech ML Engineer** | LSTM time-series stock forecasting with dual-DB (MySQL + MongoDB) architecture |
-
-</div>
+</details>
 
 ---
 
@@ -198,19 +203,6 @@ class HarishNarayananRJ:
 | B.Tech — Computer Science & Business Systems | S.A. Engineering College (Autonomous), Chennai | 2023 – 2027 | 8.13 / 10 |
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-```
-☁️  AWS Cloud              →  EC2, S3, Lambda, IAM, CloudWatch, RDS
-🏗️  System Design          →  HLD, LLD, Scalability Patterns, Caching
-🔌  REST API Architecture  →  Microservices, Auth, Rate Limiting, FastAPI
-⚙️  MLOps                  →  Docker, Model Serving, CI/CD for ML Pipelines
-🤖  LLMs & GenAI           →  Prompt Engineering, RAG, LangChain
-🧮  DSA                    →  Advanced Graph Algorithms, DP, Problem Solving
-```
 
 ---
 
